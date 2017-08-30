@@ -14,13 +14,9 @@
 后台：域名/admin.php    admin     123456
 前台用户：admin@qq.com    123456
 
-
-www.sixstaredu.com
-
-
 程序阅读帮助：
 使用TP框架构建
 默认模块：User  比如登录页面的代码地址：/User/Home/Controller
-更多技术问题请加Pack老师QQ：10202706  
+
 
 
