@@ -1,0 +1,352 @@
+[ 2016-09-13T16:53:14+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:15+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:16+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:18+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-09-13T16:53:19+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:20+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0020s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-09-13T16:53:21+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:22+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.1673s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-09-13T16:53:23+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-09-13T16:53:24+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:25+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0902s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-09-13T16:53:27+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0388s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0005s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:28+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-09-13T16:53:29+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-09-13T16:53:30+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-09-13T16:53:31+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0011s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-09-13T16:53:32+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-09-13T16:53:33+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-09-13T16:53:34+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-09-13T16:53:35+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-09-13T16:53:36+08:00 ] 127.0.0.1 /Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0012s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-09-13T16:53:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `ot_system` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `ot_system` WHERE `SYS_ID` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uname D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 85 行.
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = null LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `ot_user` SET `levelname`='高级会员' WHERE `UE_account` = null [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: uid D:\wwwroot\dedeceshi\User\Home\Controller\CommonController.class.php 第 90 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_ID` = null LIMIT 1   [ RunTime:0.0009s ]
+

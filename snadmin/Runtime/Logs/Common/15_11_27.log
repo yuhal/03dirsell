@@ -1,0 +1,6 @@
+[ 2015-11-27T21:33:24+08:00 ] 114.217.35.0 /admin.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Favicon
+

@@ -1,0 +1,3479 @@
+[ 2015-11-19T10:59:17+08:00 ] 123.118.121.77 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T10:59:19+08:00 ] 123.118.121.77 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2015-11-19T11:02:17+08:00 ] 123.118.121.77 /admin.php/Home/login/verify?0.7413725284859538
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T11:02:25+08:00 ] 123.118.121.77 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2015-11-19T11:02:28+08:00 ] 123.118.121.77 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T11:02:28+08:00 ] 123.118.121.77 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-11-19T11:02:29+08:00 ] 123.118.121.77 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T11:02:29+08:00 ] 123.118.121.77 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T11:02:52+08:00 ] 123.118.121.77 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T11:02:55+08:00 ] 123.118.121.77 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T11:02:56+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2015-11-19T11:03:21+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T11:03:21+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T11:03:27+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T11:03:27+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T11:03:30+08:00 ] 123.118.121.77 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T11:03:30+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-11-19T11:03:35+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-11-19T11:03:35+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T11:04:25+08:00 ] 123.118.121.77 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T11:04:26+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2015-11-19T11:04:36+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T11:04:36+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T11:04:40+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T11:04:40+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T11:07:24+08:00 ] 123.118.121.77 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T11:07:25+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2015-11-19T11:07:35+08:00 ] 123.118.121.77 /admin.php/Home/Shop/ly_list/type/0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T11:07:35+08:00 ] 123.118.121.77 /admin.php/Home/Shop/ly_list/type/0/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T11:07:37+08:00 ] 123.118.121.77 /admin.php/Home/Shop/ly_list/type/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T11:07:37+08:00 ] 123.118.121.77 /admin.php/Home/Shop/ly_list/type/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T11:07:40+08:00 ] 123.118.121.77 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-11-19T11:07:41+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T11:07:52+08:00 ] 123.118.121.77 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2015-11-19T11:07:52+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T11:07:57+08:00 ] 123.118.121.77 /admin.php/Home/Index/admin_xg/user/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2015-11-19T11:11:09+08:00 ] 123.118.121.77 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T11:11:10+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T11:11:20+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-11-19T11:11:21+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T11:11:27+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2015-11-19T11:11:27+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2015-11-19T11:11:37+08:00 ] 123.118.121.77 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T11:11:37+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-11-19T11:11:46+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T11:11:46+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T11:11:48+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2015-11-19T11:11:48+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2015-11-19T11:11:57+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/751/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T11:11:57+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/751/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T11:12:06+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T11:12:07+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/751/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2015-11-19T11:12:08+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/751/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T11:12:17+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2015-11-19T11:12:18+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T11:12:34+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2015-11-19T11:12:44+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T11:13:16+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T11:13:31+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2015-11-19T11:13:53+08:00 ] 123.118.121.77 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-11-19T11:14:10+08:00 ] 123.118.121.77 /admin.php/Home/Index/jbzscl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2015-11-19T11:14:12+08:00 ] 123.118.121.77 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2015-11-19T12:17:32+08:00 ] 123.118.121.77 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T12:17:32+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-11-19T12:17:35+08:00 ] 123.118.121.77 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T12:17:35+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T12:18:09+08:00 ] 123.118.121.77 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T12:18:09+08:00 ] 123.118.121.77 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2015-11-19T12:18:12+08:00 ] 123.118.121.77 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2015-11-19T12:18:12+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T12:18:15+08:00 ] 123.118.121.77 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T12:18:15+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2015-11-19T12:18:23+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T12:18:24+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T12:19:26+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T12:19:26+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-19T12:19:29+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T12:19:31+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T12:19:37+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2015-11-19T12:19:37+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T12:19:49+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T12:19:52+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T12:19:58+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-19T12:20:00+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2015-11-19T12:20:01+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T12:20:09+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T12:20:11+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-11-19T12:20:11+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T12:20:18+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T12:20:20+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T12:20:20+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T12:20:25+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T12:20:25+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2015-11-19T12:20:40+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-11-19T12:20:53+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2015-11-19T12:20:55+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2015-11-19T12:21:03+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T12:21:03+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T12:21:11+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T12:21:13+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T12:21:13+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_sd/id/752/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2015-11-19T12:21:17+08:00 ] 123.118.121.77 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T12:21:18+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2015-11-19T12:21:32+08:00 ] 123.118.121.77 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-11-19T12:21:32+08:00 ] 123.118.121.77 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T14:59:45+08:00 ] 123.118.121.77 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T14:59:45+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T14:59:47+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2015-11-19T14:59:47+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T14:59:51+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T14:59:51+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2015-11-19T15:00:01+08:00 ] 123.118.121.77 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T15:00:39+08:00 ] 123.118.121.77 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T15:00:39+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T15:00:43+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T15:00:43+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T15:00:47+08:00 ] 123.118.121.77 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T15:00:47+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-11-19T15:00:49+08:00 ] 123.118.121.77 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T15:00:50+08:00 ] 123.118.121.77 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-19T15:00:53+08:00 ] 123.118.121.77 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-11-19T15:00:53+08:00 ] 123.118.121.77 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-11-19T17:58:30+08:00 ] 118.115.181.44 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2015-11-19T17:58:31+08:00 ] 118.115.181.44 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2015-11-19T17:59:03+08:00 ] 118.115.181.44 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T17:59:05+08:00 ] 118.115.181.44 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T17:59:09+08:00 ] 118.115.181.44 /admin.php/Home/login/verify?0.060847443295642734
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T17:59:21+08:00 ] 118.115.181.44 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T17:59:24+08:00 ] 118.115.181.44 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T18:00:02+08:00 ] 118.115.181.44 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T18:00:03+08:00 ] 118.115.181.44 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T18:00:03+08:00 ] 118.115.181.44 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:00:04+08:00 ] 118.115.181.44 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2015-11-19T18:00:04+08:00 ] 118.115.181.44 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T18:00:13+08:00 ] 118.115.181.44 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T18:00:25+08:00 ] 118.115.181.44 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T18:00:25+08:00 ] 118.115.181.44 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T18:23:15+08:00 ] 118.115.181.44 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T18:23:16+08:00 ] 118.115.181.44 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T18:23:49+08:00 ] 118.115.181.44 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T18:23:50+08:00 ] 118.115.181.44 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2015-11-19T18:24:28+08:00 ] 118.115.181.44 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:24:28+08:00 ] 118.115.181.44 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T18:27:28+08:00 ] 110.185.140.43 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T18:27:28+08:00 ] 110.185.140.43 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-11-19T18:27:29+08:00 ] 110.185.140.43 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T18:27:29+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T18:27:30+08:00 ] 110.185.140.43 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2015-11-19T18:27:30+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T18:27:31+08:00 ] 110.185.140.43 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T18:27:32+08:00 ] 110.185.140.43 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T18:27:32+08:00 ] 110.185.140.43 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T18:27:33+08:00 ] 110.185.140.43 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T18:30:13+08:00 ] 110.185.140.43 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:30:13+08:00 ] 110.185.140.43 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+
+[ 2015-11-19T18:30:27+08:00 ] 110.185.140.43 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T18:30:29+08:00 ] 110.185.140.43 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-11-19T18:30:29+08:00 ] 110.185.140.43 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T18:30:29+08:00 ] 110.185.140.43 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2015-11-19T18:30:29+08:00 ] 110.185.140.43 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T18:30:34+08:00 ] 110.185.140.43 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T18:30:34+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T18:30:35+08:00 ] 110.185.140.43 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T18:30:38+08:00 ] 110.185.140.43 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T18:30:38+08:00 ] 110.185.140.43 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2015-11-19T18:30:41+08:00 ] 110.185.140.43 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2015-11-19T18:30:48+08:00 ] 110.185.140.43 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2015-11-19T18:30:54+08:00 ] 110.185.140.43 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:30:54+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-19T18:31:02+08:00 ] 110.185.140.43 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T18:31:03+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:31:04+08:00 ] 110.185.140.43 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T18:31:05+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T18:31:12+08:00 ] 110.185.140.43 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-11-19T18:31:12+08:00 ] 110.185.140.43 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T18:31:15+08:00 ] 110.185.140.43 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:31:15+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T18:31:18+08:00 ] 110.185.140.43 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T18:31:18+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2015-11-19T18:35:53+08:00 ] 110.185.140.43 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T18:35:53+08:00 ] 110.185.140.43 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-11-19T18:36:02+08:00 ] 110.185.140.43 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T18:36:03+08:00 ] 110.185.140.43 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T18:36:04+08:00 ] 110.185.140.43 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2015-11-19T18:36:04+08:00 ] 110.185.140.43 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2015-11-19T18:36:04+08:00 ] 110.185.140.43 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T18:36:07+08:00 ] 110.185.140.43 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T18:36:40+08:00 ] 110.185.140.43 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T18:36:41+08:00 ] 110.185.140.43 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2015-11-19T18:36:42+08:00 ] 110.185.140.43 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T18:36:42+08:00 ] 110.185.140.43 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2015-11-19T18:36:44+08:00 ] 110.185.140.43 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T20:06:00+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T20:06:00+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:06:12+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T20:06:14+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-11-19T20:06:14+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2015-11-19T20:06:14+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-11-19T20:06:14+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:06:16+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T20:06:16+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:06:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T20:06:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T20:06:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:06:32+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T20:06:32+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2015-11-19T20:06:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T20:06:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T20:06:42+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T20:06:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T20:06:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:06:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T20:06:44+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T20:06:44+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T20:06:47+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/751/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:06:47+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/751/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:06:51+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T20:06:53+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/751/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T20:06:53+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/751/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T20:06:55+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2015-11-19T20:06:55+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2015-11-19T20:06:57+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T20:06:57+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2015-11-19T20:06:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2015-11-19T20:06:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-11-19T20:07:02+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T20:07:02+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:07:07+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T20:07:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:07:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:07:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:07:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2015-11-19T20:07:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T20:07:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T20:07:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T20:07:46+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T20:07:47+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2015-11-19T20:07:47+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2015-11-19T20:07:53+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T20:07:53+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T20:08:02+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T20:08:03+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2015-11-19T20:08:03+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2015-11-19T20:24:03+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T20:24:03+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T20:24:20+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:24:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2015-11-19T20:24:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T20:24:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T20:24:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+
+[ 2015-11-19T20:24:27+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T20:24:27+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:24:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T20:24:32+08:00 ] 118.118.31.159 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T20:24:32+08:00 ] 118.118.31.159 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2015-11-19T20:24:47+08:00 ] 118.118.31.159 /admin.php/Home/Shop/ly_list/type/0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T20:24:47+08:00 ] 118.118.31.159 /admin.php/Home/Shop/ly_list/type/0/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T20:24:48+08:00 ] 118.118.31.159 /admin.php/Home/Shop/ly_list/type/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:24:48+08:00 ] 118.118.31.159 /admin.php/Home/Shop/ly_list/type/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:24:51+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:25:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T20:25:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2015-11-19T20:25:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T20:25:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T20:25:27+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:25:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-11-19T20:25:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:25:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:25:34+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T20:25:34+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:25:38+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-11-19T20:25:39+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T20:25:49+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T20:25:50+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T20:25:50+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:25:54+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:25:54+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-19T20:25:57+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:25:57+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T20:25:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:25:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-11-19T20:26:01+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T20:26:01+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T20:26:08+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2015-11-19T20:26:09+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2015-11-19T20:26:09+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T20:26:16+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:26:16+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:26:17+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T20:26:18+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2015-11-19T20:26:19+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-11-19T20:26:19+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T20:26:20+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:26:20+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-11-19T20:26:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:26:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:26:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:26:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T20:26:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2015-11-19T20:26:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:26:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T20:26:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T20:26:34+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2015-11-19T20:26:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T20:26:36+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1015/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2015-11-19T20:29:11+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:29:13+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:29:13+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:29:13+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:29:15+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:29:15+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T20:29:35+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:29:35+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+
+[ 2015-11-19T20:29:46+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T20:29:48+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2015-11-19T20:29:48+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2015-11-19T20:29:48+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2015-11-19T20:29:48+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2015-11-19T20:29:52+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:29:52+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T20:29:55+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1018/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T20:29:55+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1018/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T20:29:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T20:30:00+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1018/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T20:30:01+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_sd/id/1018/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-11-19T20:30:03+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-11-19T20:30:03+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:35:17+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T20:35:17+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T20:35:29+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:35:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2015-11-19T20:35:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T20:35:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-19T20:35:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T20:35:38+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2015-11-19T20:35:38+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T20:39:52+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T20:39:52+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T20:40:03+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T20:40:04+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:40:04+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:40:05+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+
+[ 2015-11-19T20:40:05+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+
+[ 2015-11-19T20:40:15+08:00 ] 118.118.31.159 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2015-11-19T20:40:16+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T20:40:17+08:00 ] 118.118.31.159 /admin.php/Home/Index/admin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:40:30+08:00 ] 118.118.31.159 /admin.php/Home/Index/adminadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:40:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T20:40:32+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:40:38+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-11-19T20:40:38+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T20:40:50+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2015-11-19T20:40:52+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2015-11-19T20:40:52+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T20:40:52+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T20:40:52+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T20:41:15+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T20:41:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzscl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-11-19T20:41:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:41:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzscl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:41:44+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:44:09+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T20:44:09+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:44:29+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T20:44:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-11-19T20:44:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:44:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T20:44:31+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T20:44:36+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-11-19T20:44:36+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:44:36+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2015-11-19T20:44:37+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2015-11-19T20:44:44+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:44:44+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T20:44:49+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:44:49+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2015-11-19T20:44:50+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/757/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T20:44:50+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/757/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T20:44:58+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T20:45:00+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/757/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T20:45:00+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_sd/id/757/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-11-19T20:45:21+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T20:45:21+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T20:45:23+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T20:45:23+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T20:45:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T20:45:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T20:45:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T20:45:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T21:32:34+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T21:32:35+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T21:32:45+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T21:32:46+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T21:32:46+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T21:32:46+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T21:32:46+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T21:36:53+08:00 ] 103.250.251.168 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-11-19T21:36:54+08:00 ] 103.250.251.168 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T21:37:02+08:00 ] 103.250.251.168 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-11-19T21:37:20+08:00 ] 103.250.251.168 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T21:37:21+08:00 ] 103.250.251.168 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T21:37:22+08:00 ] 103.250.251.168 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:37:22+08:00 ] 103.250.251.168 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T21:37:22+08:00 ] 103.250.251.168 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T21:37:28+08:00 ] 103.250.251.168 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T21:37:31+08:00 ] 103.250.251.168 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:37:32+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T21:37:35+08:00 ] 103.250.251.168 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T21:37:36+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:37:38+08:00 ] 103.250.251.168 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2015-11-19T21:37:38+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T21:37:41+08:00 ] 103.250.251.168 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T21:37:41+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-19T21:37:45+08:00 ] 103.250.251.168 /admin.php/Home/Index/admin_xg/user/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T21:37:48+08:00 ] 103.250.251.168 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T21:37:49+08:00 ] 103.250.251.168 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T21:37:51+08:00 ] 103.250.251.168 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T21:37:51+08:00 ] 103.250.251.168 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: user_jb /home/dafuhao/domains/dafuhao.ren/public_html/snadmin/Home/Controller/CommonController.class.php 第 103 行.
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2015-11-19T21:43:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T21:44:07+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T21:44:07+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T21:44:12+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T21:44:22+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_add_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T21:44:23+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2015-11-19T21:44:27+08:00 ] 118.118.31.159 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2015-11-19T21:44:27+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T21:46:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T21:46:24+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T21:46:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T21:46:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T21:46:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T21:46:25+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T21:46:26+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T21:46:26+08:00 ] 118.118.31.159 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2015-11-19T21:46:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2015-11-19T21:46:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2015-11-19T21:46:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:46:29+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2015-11-19T21:46:30+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T21:46:30+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2015-11-19T21:46:32+08:00 ] 118.118.31.159 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T21:46:33+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2015-11-19T21:46:34+08:00 ] 118.118.31.159 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T21:46:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-11-19T21:46:37+08:00 ] 118.118.31.159 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2015-11-19T21:46:37+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:46:41+08:00 ] 118.118.31.159 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T21:46:42+08:00 ] 118.118.31.159 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2015-11-19T21:48:26+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T21:48:26+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:48:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/team/user/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-11-19T21:48:36+08:00 ] 118.118.31.159 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-11-19T21:48:40+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2015-11-19T21:48:41+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T21:48:41+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2015-11-19T21:48:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/user_xg/user/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:48:46+08:00 ] 118.118.31.159 /admin.php/Home/Index/user_xg/user/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2015-11-19T21:48:48+08:00 ] 118.118.31.159 /admin.php/Home/Index/user_xg/user/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2015-11-19T21:48:54+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T21:48:55+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:48:58+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T21:48:59+08:00 ] 118.118.31.159 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2015-11-19T21:49:00+08:00 ] 118.118.31.159 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2015-11-19T21:50:26+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2015-11-19T21:50:28+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2015-11-19T21:50:28+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T21:50:30+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:50:32+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T21:50:32+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T21:50:32+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T21:50:33+08:00 ] 118.118.31.159 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T21:50:33+08:00 ] 118.118.31.159 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2015-11-19T21:50:38+08:00 ] 118.118.31.159 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:50:40+08:00 ] 118.118.31.159 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T21:50:40+08:00 ] 118.118.31.159 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T21:50:40+08:00 ] 118.118.31.159 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T21:50:40+08:00 ] 118.118.31.159 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-11-19T21:50:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+
+[ 2015-11-19T21:50:43+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2015-11-19T21:50:55+08:00 ] 118.118.31.159 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T21:50:57+08:00 ] 118.118.31.159 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:50:58+08:00 ] 118.118.31.159 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2015-11-19T21:51:14+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T21:51:14+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-11-19T21:51:28+08:00 ] 118.118.31.159 /admin.php/Home/Index/team/user/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T21:51:29+08:00 ] 118.118.31.159 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2015-11-19T21:51:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:51:35+08:00 ] 118.118.31.159 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-11-19T21:52:19+08:00 ] 182.91.123.169 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T21:52:20+08:00 ] 182.91.123.169 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2015-11-19T21:52:57+08:00 ] 182.91.123.169 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T21:53:04+08:00 ] 182.91.123.169 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T21:53:04+08:00 ] 182.91.123.169 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T21:53:04+08:00 ] 182.91.123.169 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2015-11-19T21:53:04+08:00 ] 182.91.123.169 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2015-11-19T21:53:11+08:00 ] 182.91.123.169 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-11-19T21:53:12+08:00 ] 182.91.123.169 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-11-19T21:53:15+08:00 ] 182.91.123.169 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T21:53:16+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2015-11-19T21:53:19+08:00 ] 182.91.123.169 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T21:53:19+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2015-11-19T21:53:25+08:00 ] 182.91.123.169 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T21:53:26+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T21:53:29+08:00 ] 182.91.123.169 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2015-11-19T21:53:29+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2015-11-19T21:53:33+08:00 ] 182.91.123.169 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T21:53:33+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T21:53:56+08:00 ] 182.91.123.169 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T21:53:56+08:00 ] 182.91.123.169 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-11-19T21:53:59+08:00 ] 182.91.123.169 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2015-11-19T21:54:00+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T21:54:01+08:00 ] 182.91.123.169 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T21:54:01+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2015-11-19T21:54:03+08:00 ] 182.91.123.169 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2015-11-19T21:54:03+08:00 ] 182.91.123.169 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-11-19T21:54:14+08:00 ] 182.91.123.169 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T21:54:14+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-11-19T21:54:15+08:00 ] 182.91.123.169 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T21:54:15+08:00 ] 182.91.123.169 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2015-11-19T21:54:20+08:00 ] 182.91.123.169 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T21:54:21+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T21:57:43+08:00 ] 101.226.89.115 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:04:46+08:00 ] 182.91.123.169 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T22:04:46+08:00 ] 182.91.123.169 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-11-19T22:04:48+08:00 ] 182.91.123.169 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:04:49+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T22:04:51+08:00 ] 182.91.123.169 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:04:51+08:00 ] 182.91.123.169 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-11-19T22:06:31+08:00 ] 182.91.123.169 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T22:06:31+08:00 ] 182.91.123.169 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T22:09:12+08:00 ] 103.250.251.168 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:09:17+08:00 ] 103.250.251.168 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T22:09:18+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-11-19T22:09:23+08:00 ] 103.250.251.168 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T22:09:23+08:00 ] 103.250.251.168 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-11-19T22:09:31+08:00 ] 103.250.251.168 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T22:09:32+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:09:34+08:00 ] 103.250.251.168 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:09:36+08:00 ] 103.250.251.168 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2015-11-19T22:09:37+08:00 ] 103.250.251.168 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2015-11-19T22:16:43+08:00 ] 103.250.251.168 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T22:16:44+08:00 ] 103.250.251.168 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2015-11-19T22:17:11+08:00 ] 103.250.251.168 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T22:17:13+08:00 ] 103.250.251.168 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:17:13+08:00 ] 103.250.251.168 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:17:13+08:00 ] 103.250.251.168 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T22:17:13+08:00 ] 103.250.251.168 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T22:17:16+08:00 ] 103.250.251.168 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2015-11-19T22:17:22+08:00 ] 103.250.251.168 /admin.php/Home/Index/adminlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T22:17:22+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T22:17:27+08:00 ] 103.250.251.168 /admin.php/Home/Index/admin_xg/user/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:17:29+08:00 ] 103.250.251.168 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:17:30+08:00 ] 103.250.251.168 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-11-19T22:17:38+08:00 ] 103.250.251.168 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:17:38+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:17:41+08:00 ] 103.250.251.168 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-11-19T22:17:41+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T22:17:42+08:00 ] 103.250.251.168 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:17:43+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:17:44+08:00 ] 103.250.251.168 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2015-11-19T22:17:44+08:00 ] 103.250.251.168 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2015-11-19T22:17:46+08:00 ] 103.250.251.168 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T22:17:46+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:17:48+08:00 ] 103.250.251.168 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+
+[ 2015-11-19T22:17:48+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2015-11-19T22:17:49+08:00 ] 103.250.251.168 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:17:49+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T22:18:05+08:00 ] 103.250.251.168 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T22:18:05+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T22:18:10+08:00 ] 103.250.251.168 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:18:10+08:00 ] 103.250.251.168 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2015-11-19T22:18:48+08:00 ] 103.250.251.168 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:18:49+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:18:50+08:00 ] 103.250.251.168 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:18:50+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:18:51+08:00 ] 103.250.251.168 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:18:51+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-11-19T22:18:51+08:00 ] 103.250.251.168 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+
+[ 2015-11-19T22:18:51+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:18:52+08:00 ] 103.250.251.168 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2015-11-19T22:18:53+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T22:18:53+08:00 ] 103.250.251.168 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T22:18:53+08:00 ] 103.250.251.168 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:19:10+08:00 ] 103.250.251.168 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-11-19T22:19:10+08:00 ] 103.250.251.168 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2015-11-19T22:19:13+08:00 ] 103.250.251.168 /admin.php/Home/Shop/zsbyg_list_xg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:19:16+08:00 ] 103.250.251.168 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:19:16+08:00 ] 103.250.251.168 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+
+[ 2015-11-19T22:54:14+08:00 ] 39.180.10.28 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:54:15+08:00 ] 39.180.10.28 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-11-19T22:54:46+08:00 ] 39.180.10.28 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2015-11-19T22:54:51+08:00 ] 39.180.10.28 /admin.php/Home/login/verify?0.3172920865472406
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T22:54:59+08:00 ] 39.180.10.28 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2015-11-19T22:55:16+08:00 ] 39.180.10.28 /admin.php/Home/login/verify?0.08849919959902763
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T22:55:19+08:00 ] 39.180.10.28 /admin.php/Home/login/verify?0.1579116538632661
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:55:23+08:00 ] 39.180.10.28 /admin.php/Home/login/verify?0.2939013121649623
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+
+[ 2015-11-19T22:55:35+08:00 ] 39.180.10.28 /admin.php/Home/Login/logincl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2015-11-19T22:55:38+08:00 ] 39.180.10.28 /admin.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T22:55:40+08:00 ] 39.180.10.28 /admin.php/Home/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:55:41+08:00 ] 39.180.10.28 /admin.php/Home/Index/df1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:55:42+08:00 ] 39.180.10.28 /admin.php/Home/Index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2015-11-19T22:55:55+08:00 ] 39.180.10.28 /admin.php/Home/Index/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:55:56+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2015-11-19T22:56:04+08:00 ] 39.180.10.28 /admin.php/Home/Index/jbzs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-11-19T22:56:07+08:00 ] 39.180.10.28 /admin.php/Home/Index/team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:56:11+08:00 ] 39.180.10.28 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+SQL: SHOW COLUMNS FROM `ot_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = 'admin@qq.com' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = 'admin@qq.com'  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ot_user` WHERE `UE_account` = '123123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `UE_account` FROM `ot_user` WHERE `UE_accName` = '123123'  [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2015-11-19T22:56:18+08:00 ] 39.180.10.28 /admin.php/Home/Shop/ly_list/type/0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:56:20+08:00 ] 39.180.10.28 /admin.php/Home/Shop/ly_list/type/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2015-11-19T22:56:21+08:00 ] 39.180.10.28 /admin.php/Home/Shop/ly_list/type/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+
+[ 2015-11-19T22:56:23+08:00 ] 39.180.10.28 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:56:27+08:00 ] 39.180.10.28 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:56:27+08:00 ] 39.180.10.28 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+
+[ 2015-11-19T22:56:29+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-11-19T22:56:34+08:00 ] 39.180.10.28 /admin.php/Home/Index/pin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T22:56:37+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:56:41+08:00 ] 39.180.10.28 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:56:43+08:00 ] 39.180.10.28 /admin.php/Home/Index/pin_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:56:49+08:00 ] 39.180.10.28 /admin.php/Home/Index/tgbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:56:50+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:57:04+08:00 ] 39.180.10.28 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:57:06+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:57:15+08:00 ] 39.180.10.28 /admin.php/Home/Index/ppdd_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:57:17+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T22:57:21+08:00 ] 39.180.10.28 /admin.php/Home/Index/ppdd_list/cz/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-11-19T22:57:22+08:00 ] 39.180.10.28 /admin.php/Home/Index/ppdd_list/cz/1/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:57:25+08:00 ] 39.180.10.28 /admin.php/Home/Index/ts1_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-11-19T22:57:29+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2015-11-19T22:57:36+08:00 ] 39.180.10.28 /admin.php/Home/Index/ts3_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-11-19T22:57:37+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:57:40+08:00 ] 39.180.10.28 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2015-11-19T22:57:41+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:57:47+08:00 ] 39.180.10.28 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2015-11-19T22:58:03+08:00 ] 39.180.10.28 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-11-19T22:58:39+08:00 ] 39.180.10.28 /admin.php/Home/Index/tgbz_list_cf_cl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2015-11-19T22:58:41+08:00 ] 39.180.10.28 /admin.php/Home/Index/tgbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2015-11-19T22:58:44+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2015-11-19T22:58:59+08:00 ] 39.180.10.28 /admin.php/Home/Index/jsbz_list_cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-11-19T22:59:00+08:00 ] 39.180.10.28 /admin.php/Home/Index/lixi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+
+[ 2015-11-19T22:59:03+08:00 ] 39.180.10.28 /admin.php/Home/Common/getTree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000273s ]
+
+[ 2015-11-19T22:59:18+08:00 ] 39.180.10.28 /admin.php/Home/Index/jsbz_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:59:20+08:00 ] 39.180.10.28 /admin.php/Home/Index/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2015-11-19T22:59:40+08:00 ] 39.180.10.28 /admin.php/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:59:42+08:00 ] 39.180.10.28 /admin.php/Home/Login/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+
+[ 2015-11-19T22:59:43+08:00 ] 39.180.10.28 /admin.php/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2015-11-19T22:59:46+08:00 ] 39.180.10.28 /admin.php/Home/login/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+

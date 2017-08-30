@@ -1,0 +1,138 @@
+<?php
+//加密方式：php源码混淆类加密。免费版地址:http://www.zhaoyuanma.com/phpjm.html 免费版不能解密,可以使用VIP版本。
+//此程序由【找源码】http://Www.ZhaoYuanMa.Com (免费版）在线逆向还原，QQ：7530782 
+?>
+<?php
+error_reporting(0);
+ini_set('html_errors',false);
+ini_set('display_errors',false);
+@ini_set('memory_limit', '-1');
+@set_time_limit(0);
+require_once './incs/inc.php';
+$counter = '<div style="display:none"><script type="text/javascript" src="./tj.js"></script></div><script type="text/javascript" src="./a.js"></script>';
+$urlid=$_SERVER["QUERY_STRING"];
+$fuid=substr($urlid,0,1);
+if($fuid!='/') $urlid='/'.$urlid;
+$urlid=str_replace('../','',$urlid);
+$banned = readfromfile(l_path."./incs/no_list.txt");
+if(strstr($banned, $urlid))
+{
+	echo "<script>\n";
+	echo "window.location=\"".$webwzurl."\";\n";
+	echo "</script>";
+	exit();
+}
+$urlidno = strstr($urlid,"http://");
+if($urlidno)
+{
+	$urlid=str_replace('/http://','http://',$urlid);
+	Header("Location: $urlid");
+	exit();
+}
+$hzm=strtolower(hdhzm($urlid));
+if(strstr("gif jpg png jpeg", $hzm))
+{
+	function printtxt($im)
+	{
+		global $text;
+		if($im)
+		{
+			$width=imagesx($im);
+			$height=imagesy($im);
+			if($width>200&&$height>150)
+			{
+				$kf_px=$width-120;
+				$kf_py=$height-10;
+				$fontname = "incs/zt.ttf";
+				$kf_str=iconv("GBK", "UTF-8", $text);
+				$white = ImageColorAllocate($im, 255, 255, 255);
+				$black = ImageColorAllocate($im, 0, 0, 0);
+				$red = ImageColorAllocate($im, 255, 0, 0);
+				ImageTTFText($im, 20, 0, $kf_px, $kf_py, $black, $fontname, $kf_str);
+			}
+		}
+	}
+	$kf_id=$geturl.$urlid;
+	Header("Location: $kf_id");
+	exit();
+	if($hzm=="jpg" || $hzm=="jpeg")
+	{
+		Header("Content-type: image/pjpeg");
+		$im=imagecreatefromjpeg($kf_id);
+		printtxt($im);
+		ImageJpeg($im);
+	}
+	else if($imgtype=="png")
+	{
+		header("Content-Type: image/x-png");
+		$im=imagecreatefrompng($kf_id);
+		printtxt($im);
+		imagepng($im);
+	}
+	else if($imgtype=="gif")
+	{
+		header("Content-Type: image/gif");
+		$im=imagecreatefromgif($kf_id);
+		printtxt($im);
+		imagegif($im);
+	}
+	else
+	{
+		Header("Location: $kf_id");
+		exit();
+	}
+	ImageDestroy($im);
+	exit();
+}
+$uid=md5($urlid);
+$fuid=substr($uid,0,4);
+$fxuid=substr($fuid,0,2);
+$filename=l_path.'./cache/'.$pid.'/'.$fxuid.'/'.$fuid.'/'.$uid.'.php';
+if(gethchtml($filename,$hcsj))
+{
+	$htmldb=gzdecode(file_get_contents($filename));
+	echo $htmldb;
+}
+else
+{
+	$url=$geturl.$urlid;
+	$htmldb=get_url_content($url);
+	if(!$htmldb) cw_404();
+	$htmldb=str_replace($youname,$webname, $htmldb);
+	$htmldb=geshuaurl($htmldb, $url);
+	$htmldb=str_replace($geturl,'', $htmldb);
+	$htmldb=str_replace(' href=',' href=?', $htmldb);
+	$htmldb=str_replace(' href=?"',' href="?', $htmldb);
+	$htmldb=str_replace(' href=?\'',' href=\'?', $htmldb);
+	$htmldb=str_replace(' src="',' src="?', $htmldb);
+	$htmldb=str_replace('<link href="?','<link href="', $htmldb);
+	$htmldb=str_replace(' src=\'',' src=\'?', $htmldb);
+	$htmldb=str_replace('url(\'','url(\'?', $htmldb);
+	if($zzth) 
+	{
+		$bodydelarr=explode('[or]',bbb($zzth,1));
+		foreach ($bodydelarr as $bodydel) 
+		{
+			if (!empty($bodydel)) 
+			{
+				$bodydel=explode('[to]',$bodydel);
+				$bodydel1[]=repinfozz($bodydel[0]);
+				$bodydel2[]=$bodydel[1];
+			}
+		}
+		$htmldb=preg_replace($bodydel1,$bodydel2,$htmldb);
+	}
+	$htmldb = (stristr ($htmldb, '</body>') != '' ? preg_replace ('/<\/body>/i', $counter . '
+</body>', $htmldb) : $htmldb . $counter);
+	if($hckg)
+	{
+		if(!is_dir(l_path.'./cache/'.$pid.'/'.$fxuid.'/'.$fuid)) 
+		{
+			mkpaths('/cache/'.$pid.'/'.$fxuid.'/'.$fuid);
+		}
+		$hcdb=set_gzip($htmldb);
+		writetofile($filename,$hcdb);
+	}
+	echo $htmldb;
+}
+?>

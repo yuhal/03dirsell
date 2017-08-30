@@ -1,0 +1,1 @@
+<?php	return array ( 'lixi1' => '50', 'lixi2' => '50', 'submit' => '提交', );?>
