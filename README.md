@@ -1,0 +1,26 @@
+安装说明：
+
+1.导入数据库
+通过phpmyadmin等工具导入根目录下的dirsell.sql文件
+
+2.修改网站数据库配置信息
+主要文件地址：
+\snadmin\Home\Conf\config.php
+\User\Home\Conf\config.php
+\fh\Home\Conf\config.php
+配置好数据库的名称和密码后保存文件，上传服务器
+
+3.默认账户信息
+后台：域名/admin.php    admin     123456
+前台用户：admin@qq.com    123456
+
+
+www.sixstaredu.com
+
+
+程序阅读帮助：
+使用TP框架构建
+默认模块：User  比如登录页面的代码地址：/User/Home/Controller
+更多技术问题请加Pack老师QQ：10202706  
+
+
